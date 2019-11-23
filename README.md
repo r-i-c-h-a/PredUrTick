@@ -2,6 +2,7 @@
 Car parking ticket prediction for the city of New York.<br><br>
 <h1>All Dataset Files </h1>
 Link:https://drive.google.com/open?id=1iOYIlAlMoQAyVy0fQGf-4TeJ_4utU4s6
+Youtube Link to presentation: https://youtu.be/zvAsq2L9cuQ
 
 <h1>Files Information </h1>
 
@@ -32,7 +33,7 @@ Has all the maps generated during data visualization<br><br>
 <p>Note: Internet Connection is necessary for the maps to work</p><br>
 
 4. Data Pre-Processing:<br><br>
-Folder: EDA + Data Preprocessing/<br><br>
+Folder: EDA + Data Preprocessing<br><br>
 Files:<br>
       1. Get Coordinates.ipynb - to get latitude, longitude from street name using google geoAPI<br>
          Data: Dataset/Sample_data_2017.csv<br><br>
@@ -46,6 +47,13 @@ Files:<br>
 5. Performance Metrics:<br><br>
 File: Performance Metrics for all cases<br>
 Data: Dataset/ParkingData_Month_Time_Week.csv<br>
+
+6. Kmeans: <br><br>
+Folder: K means/models<br>
+File: K means/K Means clustering to predict prone areas.ipynb<br>
+Dataset: Dataset/ParkingData_Clustered_Kmeans.csv<br>
+Note: The code for generating weights has been commented out. Download the models and dataset to make predictions.<br>
+
         
 
 
