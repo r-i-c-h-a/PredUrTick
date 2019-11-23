@@ -42,6 +42,10 @@ Files:<br>
          Data: Dataset/Sample_NaStreet_Removed.csv<br><br>
       4. Parking Ticket Dataset.ipynb - to make month and days into numbers and prepare final dataset for model implementation<br>
          Data: Dataset/bounded box data.csv<br><br>
+         
+5. Performance Metrics:<br><br>
+File: Performance Metrics for all cases<br>
+Data: Dataset/ParkingData_Month_Time_Week.csv<br>
         
 
 
