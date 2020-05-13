@@ -27,10 +27,10 @@ Youtube Link to presentation: https://youtu.be/zvAsq2L9cuQ
          Heatmap with respect to time plotted for hourly, daily, weekly, monthly.<br>
          The heatmaps are quite interactive and they show variation over time. <br>
           
-<b>Data:</b> Dataset/Sample_NaStreet_Removed.csv<br><br>
+<b>Data:</b> Dataset/Sample_NaStreet_Removed.csv<br>
 <b>Folder:</b> Maps<br>
-Has all the maps generated during data visualization<br><br>
-<p><b>Note:</b> Internet Connection is necessary for the maps to work</p><br>
+Has all the maps generated during data visualization<br>
+<p><u><b>Note:</b></u> Internet Connection is necessary for the maps to work</p><br>
 
 <h4>4. Data Pre-Processing:</h4>
 <b>Folder:</b> EDA + Data Preprocessing<br><br>
@@ -52,7 +52,7 @@ Has all the maps generated during data visualization<br><br>
 <b>Folder:</b> K means/models<br>
 <b>File:</b> K means/K Means clustering to predict prone areas.ipynb<br>
 <b>Dataset:</b> Dataset/ParkingData_Clustered_Kmeans.csv<br>
-<b>Note:</b> The code for generating weights has been commented out. Download the models and dataset to make predictions.<br>
+<u><b>Note:</b></u> The code for generating weights has been commented out. Download the models and dataset to make predictions.<br>
 
         
 
