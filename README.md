@@ -6,53 +6,53 @@ Youtube Link to presentation: https://youtu.be/zvAsq2L9cuQ
 
 <h1>Files Information </h1>
 
-1. To Run Application GUI:<br>
-File: Final Gui Model Implementation.ipynb<br>
-Data: Dataset/ParkingData_Month_Time_Week.csv<br><br>
+<h4>1. To Run Application GUI:</h4><br>
+<b>File:</b> Final Gui Model Implementation.ipynb<br>
+<b>Data:</b> Dataset/ParkingData_Month_Time_Week.csv<br><br>
 
-2. EDA Files:<br>
-Folder: EDA + Data Preprocessing/<br><br>
-Files: <br>
+<h4>2. EDA Files:</h4><br>
+<b>Folder:</b> EDA + Data Preprocessing/<br><br>
+<b>Files:</b> <br>
       1. EDA-1.ipynb<br>
       2. EDA-2.ipynb<br>
-      Data: Dataset/Sample_data_2017.csv<br><br>
+      <b>Data:</b> Dataset/Sample_data_2017.csv<br><br>
 
-3. Data Visualization:<br>
-Folder: EDA + Data Preprocessing/<br><br>
-Files: <br>
-      1. Location based heat maps.ipynb<br>
+<h4>3. Data Visualization:</h4><br>
+<b>Folder:</b> EDA + Data Preprocessing/<br><br>
+<b>Files:</b> <br>
+      1. <b>Location based heat maps.ipynb</b><br>
          Heatmaps plotted for precinct-based and street-based analysis on the map<br>
-      2. Time based heat maps.ipynb<br>
+      2. <b>Time based heat maps.ipynb</b><br>
          The time and date is divided over hours, daily, week and monthly data. <br>
          Heatmap with respect to time plotted for hourly, daily, weekly, monthly.<br>
          The heatmaps are quite interactive and they show variation over time. <br>
           
-Data: Dataset/Sample_NaStreet_Removed.csv<br><br>
-Folder: Maps<br>
+<b>Data:</b> Dataset/Sample_NaStreet_Removed.csv<br><br>
+<b>Folder:</b> Maps<br>
 Has all the maps generated during data visualization<br><br>
-<p>Note: Internet Connection is necessary for the maps to work</p><br>
+<p><b>Note:</b> Internet Connection is necessary for the maps to work</p><br>
 
-4. Data Pre-Processing:<br><br>
-Folder: EDA + Data Preprocessing<br><br>
-Files:<br>
-      1. Get Coordinates.ipynb - to get latitude, longitude from street name using google geoAPI<br>
-         Data: Dataset/Sample_data_2017.csv<br><br>
-      2. Time based dataset.ipynb - to add time slot column to the data<br>
-         Data: Dataset/Sample_data_2017.csv<br><br>
-      3. Get data based on bounding box.ipynb - to get data only belonging to the state of New York<br>
-         Data: Dataset/Sample_NaStreet_Removed.csv<br><br>
-      4. Parking Ticket Dataset.ipynb - to make month and days into numbers and prepare final dataset for model implementation<br>
-         Data: Dataset/bounded box data.csv<br><br>
+<h4>4. Data Pre-Processing:</h4><br>
+<b>Folder:</b> EDA + Data Preprocessing<br><br>
+<b>Files:</b><br>
+      1. <b>Get Coordinates.ipynb - to get latitude, longitude from street name using google geoAPI</b><br>
+         <b>Data:</b> Dataset/Sample_data_2017.csv<br><br>
+      2. <b>Time based dataset.ipynb - to add time slot column to the data</b><br>
+         <b>Data:</b> Dataset/Sample_data_2017.csv<br><br>
+      3. <b>Get data based on bounding box.ipynb - to get data only belonging to the state of New York</b><br>
+         <b>Data:</b> Dataset/Sample_NaStreet_Removed.csv<br><br>
+      4. <b>Parking Ticket Dataset.ipynb - to make month and days into numbers and prepare final dataset for model implementation</b><br>
+         <b>Data:</b> Dataset/bounded box data.csv<br><br>
          
-5. Performance Metrics:<br><br>
-File: Performance Metrics for all cases<br>
-Data: Dataset/ParkingData_Month_Time_Week.csv<br>
+<h4>5. Performance Metrics:</h4><br>
+<b>File:</b> Performance Metrics for all cases<br>
+<b>Data:</b> Dataset/ParkingData_Month_Time_Week.csv<br>
 
-6. Kmeans: <br><br>
-Folder: K means/models<br>
-File: K means/K Means clustering to predict prone areas.ipynb<br>
-Dataset: Dataset/ParkingData_Clustered_Kmeans.csv<br>
-Note: The code for generating weights has been commented out. Download the models and dataset to make predictions.<br>
+<h4>6. Kmeans:</h4> <br>
+<b>Folder:</b> K means/models<br>
+<b>File:</b> K means/K Means clustering to predict prone areas.ipynb<br>
+<b>Dataset:</b> Dataset/ParkingData_Clustered_Kmeans.csv<br>
+<b>Note:</b> The code for generating weights has been commented out. Download the models and dataset to make predictions.<br>
 
         
 
